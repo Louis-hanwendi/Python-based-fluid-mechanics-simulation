@@ -18,13 +18,13 @@ https://github.com/user-attachments/assets/bbc67840-d6bd-4db4-ba5a-00f73dd44de9
 - Matplotlib 🎨
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mechanics_simulation.git
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/mechanics_simulation.git
    ```
-   ### and
-   ```bash
-   cd mechanics_simulation
+### and
+```bash
+cd mechanics_simulation
 ### Install the required packages:
 ```bash
 pip install numpy matplotlib
