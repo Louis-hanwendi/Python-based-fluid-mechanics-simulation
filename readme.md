@@ -25,15 +25,6 @@ https://github.com/user-attachments/assets/bbc67840-d6bd-4db4-ba5a-00f73dd44de9
    ### and
    ```bash
    cd mechanics_simulation
-
-
-
-
-
-
-
-
-
 ### Install the required packages:
 ```bash
 pip install numpy matplotlib
