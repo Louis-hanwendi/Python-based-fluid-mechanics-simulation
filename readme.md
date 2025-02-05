@@ -25,6 +25,7 @@ git clone https://github.com/yourusername/mechanics_simulation.git
 ### and
 ```bash
 cd mechanics_simulation
+```
 ### Install the required packages:
 ```bash
 pip install numpy matplotlib
