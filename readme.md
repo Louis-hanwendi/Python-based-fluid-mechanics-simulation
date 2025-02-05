@@ -8,6 +8,8 @@ A 2D fluid dynamics simulation using Python, NumPy, and Matplotlib. This project
 - Implementation of diffusion, advection, and pressure projection algorithms 🧪
 - Easy-to-use graphical interface for adding density and velocity sources 🖱️
 
+https://github.com/user-attachments/assets/bbc67840-d6bd-4db4-ba5a-00f73dd44de9
+
 ## Getting Started
 
 ### Prerequisites
@@ -19,12 +21,15 @@ A 2D fluid dynamics simulation using Python, NumPy, and Matplotlib. This project
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/mechanics_simulation.git
+   ```
+   ### and
+   ```bash
    cd mechanics_simulation
 
 
 
 
-https://github.com/user-attachments/assets/bbc67840-d6bd-4db4-ba5a-00f73dd44de9
+
 
 
 
