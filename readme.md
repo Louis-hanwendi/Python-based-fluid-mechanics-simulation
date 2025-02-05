@@ -28,12 +28,13 @@ https://github.com/user-attachments/assets/bbc67840-d6bd-4db4-ba5a-00f73dd44de9
 
 
 
-You can use the mouse to interact with the simulation:
-Press and hold the mouse button to add density to the fluid.
-Move the mouse to dynamically influence the fluid flow.
-Install the required packages:
+
+###Install the required packages:
+```bash
 pip install numpy matplotlib
 
-Run the simulation:
+```
+###Run the simulation:
+```bash
 python mechanics simulation.py
 
