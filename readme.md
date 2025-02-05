@@ -1,4 +1,25 @@
-This Python script is a fluid simulation program that visualizes the behavior of a fluid (such as smoke or water) in a 2D grid environment. The script uses numerical methods to simulate fluid dynamics, including diffusion, advection, and pressure projection, and it allows for interactive user input via mouse movements to dynamically influence the fluid flow.
+# Mechanics Simulation 🌊
+
+A 2D fluid dynamics simulation using Python, NumPy, and Matplotlib. This project allows users to interactively simulate fluid behavior such as diffusion, advection, and pressure projection in real-time. 🚀
+
+## Features
+- Real-time fluid simulation with interactive mouse input 🎨
+- Visualization of fluid density and velocity fields 📊
+- Implementation of diffusion, advection, and pressure projection algorithms 🧪
+- Easy-to-use graphical interface for adding density and velocity sources 🖱️
+
+## Getting Started
+
+### Prerequisites
+- Python 3.x 🐍
+- NumPy 📈
+- Matplotlib 🎨
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/mechanics_simulation.git
+   cd mechanics_simulation
 
 
 
@@ -7,9 +28,9 @@ https://github.com/user-attachments/assets/bbc67840-d6bd-4db4-ba5a-00f73dd44de9
 
 
 
-
-
-
+You can use the mouse to interact with the simulation:
+Press and hold the mouse button to add density to the fluid.
+Move the mouse to dynamically influence the fluid flow.
 Install the required packages:
 pip install numpy matplotlib
 
